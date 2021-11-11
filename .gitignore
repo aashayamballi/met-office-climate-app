@@ -1,0 +1,4 @@
+weather_api/**/migrations/
+weather_api/static/
+weather_api/db.sqlite3
+.env
